@@ -1,19 +1,10 @@
 {
   "name": "Golden-Queens-MD",
-  "description": "DEVELLOPER BY VIMA-MODS",
+  "description": "DEVLLOPE BY VIMA-MODS , DILA-LK & Mr.Rocky",
   "logo": "https://i.ibb.co/4TJt2B3/Golden-Queen-MD-VIMAMODS-b591c345d177a4d0.jpg",
   "keywords": ["bot"],
   "success_url": "/",
   "env": {
-"HEROKU_APP_NAME": {
-      "description": "Your Heroku app name",
-      "required": true
-    },
-    "GITHUB_TOKEN": {
-      "description": "GitHub Personal Access Token",
-      "required": true,
-      "value": "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"
-    },
 
     "SESSION_ID": {
       "description": "Add Golden Queen Session ID",
